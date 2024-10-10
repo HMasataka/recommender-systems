@@ -6,4 +6,6 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "pandas>=2.2.3",
+    "ruff>=0.6.9",
+    "scikit-learn>=1.5.2",
 ]
